@@ -1,6 +1,6 @@
 # Willans Hass.io Add-on: rest980 Docker Image
 
-Allows installing the Rest980 Docker Image on Hass.io
+Installation of the rest980 Docker Image on Hass.io
 
 ![Supports amd64 Architecture][amd64-shield]
 
@@ -36,11 +36,11 @@ BLID/Password - refer [here][blid] for help in obtaining these details
 
 Got questions? Please post them [here][forum].
 
-In case you've found a bug, please [open an issue on our GitHub][issue].
+In case you've found a bug, please [open an issue on GitHub][issue].
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [forum]: https://community.home-assistant.io/t/irobot-roomba-i7-configuration-using-rest980/161175
-[issue]: https://github.com/jeremywillans/hass-addons/rest980/issues
+[issue]: https://github.com/jeremywillans/hass-addons/issues
 [repository]: https://github.com/jeremywillans/hass-addons
 [blid]: https://github.com/koalazak/dorita980#how-to-get-your-usernameblid-and-password
 [rest980]: https://github.com/koalazak/rest980
