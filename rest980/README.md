@@ -30,7 +30,7 @@ BLID/Password - refer [here][blid] for help in obtaining these details
 
 ## Known issues and limitations
 
-- This add-on can only be used on devices that support the Video Core (vc).
+- This add-on can only be used on devices that support amd64 (not Raspberry Pi!)
 
 ## Support
 
