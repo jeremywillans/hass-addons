@@ -1,3 +1,3 @@
 # hass-addons
 
-Hass.io Addon Repository
+JW Hass.io Add-ons
