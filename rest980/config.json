@@ -1,7 +1,7 @@
 {
   "name": "Hass.io Rest980 Add-on",
   "version": "latest",
-  "slug": "folder",
+  "slug": "rest980",
   "description": "Allows installing the Rest980 Docker Image in Hass.io",
   "arch": [
     "amd64"
