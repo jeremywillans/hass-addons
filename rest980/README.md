@@ -1,6 +1,6 @@
 # Willans Hass.io Add-on: rest980 Docker Image
 
-Allows installing the Rest980 Docker Image in Hass.io
+Allows installing the Rest980 Docker Image on Hass.io
 
 ![Supports amd64 Architecture][amd64-shield]
 
