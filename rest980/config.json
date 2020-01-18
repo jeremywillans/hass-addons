@@ -1,12 +1,12 @@
 {
-  "name": "Hass.io Rest980 Addon",
+  "name": "Hass.io Rest980 Add-on",
   "version": "latest",
   "slug": "folder",
   "description": "Allows installing the Rest980 Docker Image in Hass.io",
   "arch": [
     "amd64"
   ],
-  "url": "https://github.com/jeremywillans/hass-rest980",
+  "url": "https://github.com/jeremywillans/hass-addons/rest980",
   "startup": "application",
   "boot": "auto",
   "legacy": true,
