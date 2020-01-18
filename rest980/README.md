@@ -1,6 +1,6 @@
 ## Rest980 Hass.io
 
-This Hass.io Addon allows you to run the Rest980 Docker Image.
+This Hass.io Add-on allows you to run the Rest980 Docker Image.
 
 The required options have been exposed in Hass.io
 
