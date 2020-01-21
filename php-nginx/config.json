@@ -16,7 +16,13 @@
   "map": [
     "config:rw"
   ],
-  "options": {},
-  "schema": {},
+  "options": {
+    "WEB_DOCUMENT_ROOT": "/config/vacuum",
+    "WEB_DOCUMENT_INDEX": "index.php"
+  },
+  "schema": {
+    "WEB_DOCUMENT_ROOT": "str",
+    "WEB_DOCUMENT_INDEX": "str"
+  },
   "image": "webdevops/php-nginx"
 }
