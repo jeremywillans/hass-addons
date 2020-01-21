@@ -27,6 +27,5 @@
     "PASSWORD": "str",
     "ROBOT_IP": "str",
     "FIRMWARE_VERSION": "int"
-  },
-  "image": "koalazak/rest980"
+  }
 }
