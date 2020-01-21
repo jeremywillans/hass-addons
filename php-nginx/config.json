@@ -16,5 +16,7 @@
   "map": [
     "config:rw"
   ],
+  "options": {},
+  "schema": {},
   "image": "webdevops/php-nginx"
 }
