@@ -18,7 +18,7 @@
   ],
   "options": {
     "WEB_DOCUMENT_ROOT": "/config/vacuum",
-    "WEB_DOCUMENT_INDEX": "index.php"
+    "WEB_DOCUMENT_INDEX": "image.php"
   },
   "schema": {
     "WEB_DOCUMENT_ROOT": "str",
