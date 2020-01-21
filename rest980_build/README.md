@@ -28,19 +28,13 @@ BLID/Password - refer [here][blid] for help in obtaining these details
 2. Start the add-on.
 3. Check the add-on log output to see the result.
 
-## Known issues and limitations
-
-- This add-on can only be used on devices that support amd64 (not Raspberry Pi!)
-
 ## Support
 
 Got questions? Please post them [here][forum].
 
 In case you've found a bug, please [open an issue on GitHub][issue].
 
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [forum]: https://community.home-assistant.io/t/irobot-roomba-i7-configuration-using-rest980/161175
 [issue]: https://github.com/jeremywillans/hass-addons/issues
