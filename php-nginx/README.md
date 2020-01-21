@@ -20,7 +20,10 @@ Follow these steps to get the add-on installed on your system:
 
 ## How to use
 
-This add-on does not require configuration options to be set.
+This add-on has pre-define configuration options. Plesse only adjust if required
+
+1. Verify the required configuration attributes.
+2. Start the add-on.
 
 ## Known issues and limitations
 
