@@ -41,7 +41,6 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [forum]: https://community.home-assistant.io/t/irobot-roomba-i7-configuration-using-rest980/161175
 [issue]: https://github.com/jeremywillans/hass-addons/issues
-[repository]: https://github.com/jeremywillans/hass-addons
 [blid]: https://github.com/koalazak/dorita980#how-to-get-your-usernameblid-and-password
 [rest980]: https://github.com/koalazak/rest980
 [dorita980]: https://github.com/koalazak/rest980
