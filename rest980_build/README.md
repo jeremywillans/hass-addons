@@ -16,7 +16,7 @@ Follow these steps to get the add-on installed on your system:
 
 1. Navigate in your Home Assistant frontend to **Hass.io** -> **Add-on Store**.
 2. Find the "rest980_build Docker Image" add-on and click it.
-3. Click on the "INSTALL" button - this will build and execute the image.
+3. Click on the "INSTALL" button - this will build the image locally.
 
 ## How to use
 
