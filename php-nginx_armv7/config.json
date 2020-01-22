@@ -1,8 +1,8 @@
 {
   "name": "php-nginx_armv7 Docker Image",
   "version": "latest",
-  "slug": "php-nginx",
-  "description": "Installation of php-nginx Docker Image in Hass.io",
+  "slug": "php-nginx_armv7",
+  "description": "Installation of Webhippie php-nginx Docker Image in Hass.io",
   "arch": [
     "amd64",
     "armv7"
