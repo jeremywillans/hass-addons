@@ -1,5 +1,5 @@
 {
-  "name": "rest980 Docker Image",
+  "name": "rest980_build Docker Image",
   "version": "latest",
   "slug": "rest980",
   "description": "Installation of rest980 Docker Image in Hass.io",

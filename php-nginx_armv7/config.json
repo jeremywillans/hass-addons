@@ -1,5 +1,5 @@
 {
-  "name": "php-nginx Docker Image",
+  "name": "php-nginx_armv7 Docker Image",
   "version": "latest",
   "slug": "php-nginx",
   "description": "Installation of php-nginx Docker Image in Hass.io",
@@ -7,7 +7,7 @@
     "amd64",
     "armv7"
   ],
-  "url": "https://github.com/jeremywillans/hass-addons/php-nginx_build",
+  "url": "https://github.com/jeremywillans/hass-addons/php-nginx_armv7",
   "startup": "application",
   "boot": "auto",
   "legacy": true,
