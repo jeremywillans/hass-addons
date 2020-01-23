@@ -2,7 +2,7 @@
 
 Installation of the php-nginx Docker Image on Hass.io
 
-![Supports amd64 Architecture][amd64-shield]
+![Supports amd64 Architecture][amd64-shield] ![Supports armv7 Architecture][armv7-shield]
 
 ## About
 
@@ -25,10 +25,6 @@ This add-on has pre-define configuration options. Plesse only adjust if required
 1. Verify the required configuration attributes.
 2. Start the add-on.
 
-## Known issues and limitations
-
-- This add-on can only be used on devices that support amd64 (not Raspberry Pi!)
-
 ## Support
 
 Got questions? Please post them [here][forum].
@@ -36,7 +32,8 @@ Got questions? Please post them [here][forum].
 In case you've found a bug, please [open an issue on GitHub][issue].
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [forum]: https://community.home-assistant.io/t/irobot-roomba-i7-configuration-using-rest980/161175
 [issue]: https://github.com/jeremywillans/hass-addons/issues
-[php-nginx]: https://hub.docker.com/r/webdevops/php-nginx
+[php-nginx]: https://hub.docker.com/r/webhippie/php-nginx
 [gotschi]: https://community.home-assistant.io/u/gotschi/summary

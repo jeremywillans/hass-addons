@@ -2,27 +2,26 @@
   "name": "php-nginx Docker Image",
   "version": "latest",
   "slug": "php-nginx",
-  "description": "Installation of php-nginx Docker Image in Hass.io",
+  "description": "Installation of Webhippie php-nginx Docker Image in Hass.io",
   "arch": [
-    "amd64"
+    "amd64",
+    "armv7"
   ],
   "url": "https://github.com/jeremywillans/hass-addons/php-nginx",
   "startup": "application",
   "boot": "auto",
   "legacy": true,
   "ports": {
-    "80/tcp": 3001
+    "8080/tcp": 3001
   },
   "map": [
     "config:rw"
   ],
   "options": {
-    "WEB_DOCUMENT_ROOT": "/config/vacuum",
-    "WEB_DOCUMENT_INDEX": "image.php"
+    "NGINX_WEBROOT": "/config/vacuum"
   },
   "schema": {
-    "WEB_DOCUMENT_ROOT": "str",
-    "WEB_DOCUMENT_INDEX": "str"
+    "NGINX_WEBROOT": "str"
   },
-  "image": "webdevops/php-nginx"
+  "image": "webhippie/php-nginx"
 }
