@@ -1,10 +1,11 @@
 {
   "name": "rest980 Docker Image",
-  "version": "latest",
+  "version": "20191217",
   "slug": "rest980",
-  "description": "Installation of rest980 Docker Image in Hass.io",
+  "description": "Build and run rest980 Docker Image in Hass.io",
   "arch": [
-    "amd64"
+    "amd64",
+    "armv7"
   ],
   "url": "https://github.com/jeremywillans/hass-addons/rest980",
   "startup": "application",
@@ -27,6 +28,5 @@
     "PASSWORD": "str",
     "ROBOT_IP": "str",
     "FIRMWARE_VERSION": "int"
-  },
-  "image": "koalazak/rest980"
+  }
 }

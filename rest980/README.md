@@ -1,8 +1,8 @@
 # Willans Hass.io Add-on: rest980 Docker Image
 
-Installation of the rest980 Docker Image on Hass.io
+Build and run the rest980 Docker Image on Hass.io
 
-![Supports amd64 Architecture][amd64-shield]
+![Supports amd64 Architecture][amd64-shield] ![Supports armv7 Architecture][armv7-shield]
 
 ## About
 
@@ -16,7 +16,7 @@ Follow these steps to get the add-on installed on your system:
 
 1. Navigate in your Home Assistant frontend to **Hass.io** -> **Add-on Store**.
 2. Find the "rest980 Docker Image" add-on and click it.
-3. Click on the "INSTALL" button.
+3. Click on the "INSTALL" button - this will build the image locally.
 
 ## How to use
 
@@ -28,10 +28,6 @@ BLID/Password - refer [here][blid] for help in obtaining these details
 2. Start the add-on.
 3. Check the add-on log output to see the result.
 
-## Known issues and limitations
-
-- This add-on can only be used on devices that support amd64 (not Raspberry Pi!)
-
 ## Support
 
 Got questions? Please post them [here][forum].
@@ -39,6 +35,7 @@ Got questions? Please post them [here][forum].
 In case you've found a bug, please [open an issue on GitHub][issue].
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [forum]: https://community.home-assistant.io/t/irobot-roomba-i7-configuration-using-rest980/161175
 [issue]: https://github.com/jeremywillans/hass-addons/issues
 [blid]: https://github.com/koalazak/dorita980#how-to-get-your-usernameblid-and-password
