@@ -22,7 +22,7 @@ Follow these steps to get the add-on installed on your system:
 
 This add-on requires configuration options to be set.
 
-BLID/Password - refer [here][blid] for help in obtaining these details
+BLID/Password - refer [here][blid] for help in obtaining these details, alternatively you can use my other Add-on - **roombapw**
 
 1. Set the required configuration attributes.
 2. Start the add-on.

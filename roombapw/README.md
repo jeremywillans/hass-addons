@@ -6,7 +6,7 @@ Build and run the roombapw Docker Image on Hass.io
 
 ## About
 
-This image is a modified version of [dorita980][dorita980] allowing retrival of the BLID and Password from your iRobot Roomba (i7/i7+, 980, 960, e5, 690, 675, etc)
+This image is a modified version of [dorita980][dorita980] allowing retrival of the BLID and Password from your iRobot Roomba (i7/i7+, 980, 960, e5, 690, 675, etc) from within Hass.io
 
 Credit to [Facu Zak][facuzak] for providing this solution!
 
