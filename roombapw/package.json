@@ -1,0 +1,70 @@
+{
+  "name": "dorita980",
+  "version": "3.1.7",
+  "description": "Unofficial iRobot Roomba 980 and wifi other enabled series library sdk",
+  "main": "./index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "pretest": "npm install",
+    "check:style": "eslint .",
+    "test": "_mocha -- $npm_package_config_mocha && npm run check:style",
+    "test:coverage:run": "istanbul cover _mocha -- $npm_package_config_mocha",
+    "test:coverage:check": "istanbul check-coverage --functions 80",
+    "test:coverage": "npm run test:coverage:run && npm run test:coverage:check",
+    "getpassword": "node ./bin/getpassword.js"
+  },
+  "bin": {
+    "get-roomba-password": "./bin/getpassword.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koalazak/dorita980.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.1.2",
+    "istanbul": "^0.4.0",
+    "semistandard": "^9.1.0",
+    "eslint": "^4.18.2",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-config-semistandard": "^7.0.0",
+    "eslint-plugin-promise": "^3.0.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "proxyquire": "^1.7.10"
+  },
+  "keywords": [
+    "unofficial",
+    "iRobot",
+    "Roomba",
+    "980",
+    "wifi",
+    "i7",
+    "e5",
+    "960",
+    "690",
+    "675",
+    "library",
+    "sdk",
+    "robot",
+    "local",
+    "cloud",
+    "alexa",
+    "vacuum",
+    "cleaner",
+    "IoT"
+  ],
+  "author": "koalazak <zak.tux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koalazak/dorita980/issues"
+  },
+  "homepage": "https://github.com/koalazak/dorita980#readme",
+  "dependencies": {
+    "mqtt": "^2.15.0",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1"
+  }
+}
