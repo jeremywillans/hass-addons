@@ -52,6 +52,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(authHandler);
+app.use('/favicon.ico', express.static(path.join(__dirname, 'public', 'img', 'favicon.ico')));
 
 app.use('/', helloRoute);
 app.use('/api', apiRoute);
