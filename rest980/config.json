@@ -1,6 +1,6 @@
 {
   "name": "rest980 Docker Image",
-  "version": "20191217",
+  "version": "20200205",
   "slug": "rest980",
   "description": "Build and run rest980 Docker Image in Hass.io",
   "arch": [
