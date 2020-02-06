@@ -1,4 +1,4 @@
-# Willans Hass.io Add-on: rest980 Docker Image Changes
+# Willans HA Add-on: rest980 Docker Image Changes
 
 ### 20200205
 - Fix NODE_ENV Strict Mode
