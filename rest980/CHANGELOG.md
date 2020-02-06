@@ -5,5 +5,4 @@
 - Add favicon.ico
 
 ### 20191217
-
 - Initial Release
