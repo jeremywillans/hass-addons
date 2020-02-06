@@ -8,15 +8,14 @@ Build and run the roombapw Docker Image on Hass.io
 
 This image is a modified version of [dorita980][dorita980] allowing retrival of the BLID and Password from your iRobot Roomba (i7/i7+, 980, 960, e5, 690, 675, etc) from within Hass.io
 
-Credit to [Facu Zak][facuzak] for providing this solution!
-
 ## Installation
 
 Follow these steps to get the add-on installed on your system:
 
-1. Navigate in your Home Assistant frontend to **Hass.io** -> **Add-on Store**.
-2. Find the "roombapw Docker Image" add-on and click it.
-3. Click on the "INSTALL" button - this will build the image locally.
+1. Navigate in your Home Assistant frontend to **Supervisor** -> **Add-on Store**.
+2. Ensure you have added the custom repository - ```https://github.com/jeremywillans/hass-addons```
+3. Find the "roombapw Docker Image" add-on and click it.
+4. Click on the "INSTALL" button - this will build the image locally.
 
 ## How to use
 
@@ -34,6 +33,17 @@ Got questions? Please post them [here][forum].
 
 In case you've found a bug, please [open an issue on GitHub][issue].
 
+## Credits
+
+- [Facu ZAK](https://github.com/koalazak) for creating dorita980 and rest980 !
+
+## My Repos
+
+[ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) | 
+[roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) | 
+[hass-addons](https://github.com/jeremywillans/hass-addons) | 
+
+[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/jeremywillans)
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [forum]: https://community.home-assistant.io/t/irobot-roomba-i7-configuration-using-rest980/161175
