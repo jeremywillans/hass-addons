@@ -4,7 +4,7 @@ Willans HA Add-ons Repository
 
 ## Installation
 
-Adding this add-ons repository to your Hass.io Home Assistant instance is
+Adding this add-ons repository to your Home Assistant instance is
 pretty easy. Follow [the official instructions][third-party-addons] on the
 website of Home Assistant, and use the following URL:
 
