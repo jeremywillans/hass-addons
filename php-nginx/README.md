@@ -8,7 +8,7 @@ Installation of the php-nginx Docker Image on Hass.io
 
 [php-nginx][php-nginx] exposes a Web Platform supporting PHP. This is used to host the iRobot Roomba Map
 
-Credit to 
+Please head over to [this repo](https://github.com/jeremywillans/ha-rest980-roomba) for usage instructions!
 
 ## Installation
 
@@ -40,7 +40,7 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 
 [ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) | 
 [roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) | 
-[hass-addons](https://github.com/jeremywillans/hass-addons) | 
+[hass-addons](https://github.com/jeremywillans/hass-addons)
 
 [![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/jeremywillans)
 

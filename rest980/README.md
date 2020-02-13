@@ -8,6 +8,8 @@ Build and run the rest980 Docker Image on Hass.io
 
 [rest980][rest980] exposes [dorita980][dorita980] which is an Unofficial iRobot Roomba (i7/i7+, 980, 960, e5, 690, 675, etc) node.js library (SDK).
 
+Please head over to [this repo](https://github.com/jeremywillans/ha-rest980-roomba) for usage instructions!
+
 ## Installation
 
 Follow these steps to get the add-on installed on your system:
@@ -41,7 +43,7 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 
 [ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) | 
 [roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) | 
-[hass-addons](https://github.com/jeremywillans/hass-addons) | 
+[hass-addons](https://github.com/jeremywillans/hass-addons)
 
 [![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/jeremywillans)
 

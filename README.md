@@ -17,6 +17,8 @@ https://github.com/jeremywillans/hass-addons
 ### rest980
 Provides the rest980 and dorita980 Node modules for obtaining the data from your iRobot Roomba
 
+Please head over to [this repo](https://github.com/jeremywillans/ha-rest980-roomba) for usage instructions!
+
 ### php-nginx
 Hosts the PHP Image for Server-Side rendering of the map using coordinates from rest980
 
@@ -36,7 +38,7 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 
 [ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) | 
 [roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) | 
-[hass-addons](https://github.com/jeremywillans/hass-addons) | 
+[hass-addons](https://github.com/jeremywillans/hass-addons)
 
 [![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/jeremywillans)
 
