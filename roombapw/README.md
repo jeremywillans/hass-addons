@@ -51,8 +51,8 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 
 [![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/jeremywillans)
 
-[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg?style=for-the-badge
+[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/t/irobot-roomba-i7-configuration-using-rest980/161175
 [issue]: https://github.com/jeremywillans/hass-addons/issues
 [dorita980]: https://github.com/koalazak/rest980
