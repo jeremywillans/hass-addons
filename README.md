@@ -36,10 +36,17 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 
 ## My Repos
 
-[ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) | 
-[roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) | 
-[hass-addons](https://github.com/jeremywillans/hass-addons)
+[ha-rest980-roomba] | 
+[roomba-vacuum-card] | 
+[hass-addons] | 
+[event-emitter]
 
-[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/jeremywillans)
+[![BMC]](https://www.buymeacoffee.com/jeremywillans)
 
 [third-party-addons]: https://home-assistant.io/hassio/installing_third_party_addons/
+
+[ha-rest980-roomba]: https://github.com/jeremywillans/ha-rest980-roomba
+[roomba-vacuum-card]: https://github.com/jeremywillans/lovelace-roomba-vacuum-card
+[hass-addons]: https://github.com/jeremywillans/hass-addons
+[event-emitter]: https://github.com/jeremywillans/event-emitter
+[BMC]: https://www.buymeacoffee.com/assets/img/custom_images/white_img.png

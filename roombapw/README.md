@@ -45,11 +45,12 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 
 ## My Repos
 
-[ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) | 
-[roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) | 
-[hass-addons](https://github.com/jeremywillans/hass-addons)
+[ha-rest980-roomba] | 
+[roomba-vacuum-card] | 
+[hass-addons] | 
+[event-emitter]
 
-[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/jeremywillans)
+[![BMC]](https://www.buymeacoffee.com/jeremywillans)
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg?style=for-the-badge
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg?style=for-the-badge
@@ -57,3 +58,9 @@ In case you've found a bug, please [open an issue on GitHub][issue].
 [issue]: https://github.com/jeremywillans/hass-addons/issues
 [dorita980]: https://github.com/koalazak/rest980
 [facuzak]: https://github.com/koalazak
+
+[ha-rest980-roomba]: https://github.com/jeremywillans/ha-rest980-roomba
+[roomba-vacuum-card]: https://github.com/jeremywillans/lovelace-roomba-vacuum-card
+[hass-addons]: https://github.com/jeremywillans/hass-addons
+[event-emitter]: https://github.com/jeremywillans/event-emitter
+[BMC]: https://www.buymeacoffee.com/assets/img/custom_images/white_img.png
