@@ -1,0 +1,32 @@
+{
+  "name": "rest980_2 Docker Image",
+  "version": "20200205",
+  "slug": "rest980_2",
+  "description": "Build and run rest980 Docker Image in Hass.io",
+  "arch": [
+    "amd64",
+    "armv7"
+  ],
+  "url": "https://github.com/jeremywillans/hass-addons/rest980_2",
+  "startup": "application",
+  "boot": "auto",
+  "legacy": true,
+  "ports": {
+    "3000/tcp": 3000
+  },
+  "map": [
+    "config:rw"
+  ],
+  "options": {
+    "BLID": "blid",
+    "PASSWORD": "password",
+    "ROBOT_IP": "robot_ip",
+    "FIRMWARE_VERSION": "2"
+  },
+  "schema": {
+    "BLID": "str",
+    "PASSWORD": "str",
+    "ROBOT_IP": "str",
+    "FIRMWARE_VERSION": "int"
+  }
+}
