@@ -12,7 +12,7 @@
   "boot": "auto",
   "legacy": true,
   "ports": {
-    "3000/tcp": 3000
+    "3000/tcp": 3002
   },
   "map": [
     "config:rw"
