@@ -26,6 +26,9 @@ This add-on requires configuration options to be set.
 BLID/Password - refer [here][blid] for help in obtaining these details, alternatively you can use my other Add-on: **roombapw**
 
 1. Set the required configuration attributes.
+
+    **NOTE** Firmware option 2 implies 2+ (inclusive of 3.x)
+
 2. Start the add-on.
 3. Check the add-on log output to see the result.
 
