@@ -1,0 +1,65 @@
+{
+  "name": "rest980",
+  "version": "2.1.2",
+  "description": "dorita980 REST interface to control your iRobot Roomba 980",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "pretest": "npm install",
+    "check:style": "eslint .",
+    "test": "npm run check:style",
+    "getpassword": "node ./node_modules/dorita980/bin/getpassword.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koalazak/rest980.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "config": "^2.0.1",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.1.0",
+    "dorita980": "^3.1.11",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "jsonfile": "^4.0.0",
+    "morgan": "^1.7.0",
+    "basic-auth": "^2.0.0"
+  },
+  "devDependencies": {
+    "semistandard": "^9.1.0",
+    "eslint": "^4.18.2",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-config-semistandard": "^7.0.0",
+    "eslint-plugin-promise": "^3.0.0",
+    "eslint-plugin-standard": "^2.0.1"
+  },
+  "keywords": [
+    "unofficial",
+    "iRobot",
+    "Roomba",
+    "980",
+    "library",
+    "sdk",
+    "robot",
+    "local",
+    "cloud",
+    "alexa",
+    "vacuum",
+    "cleaner",
+    "IoT",
+    "rest",
+    "api",
+    "express",
+    "map",
+    "mapping",
+    "vslam",
+    "i7"
+  ],
+  "author": "koalazak <zak.tux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koalazak/rest980/issues"
+  },
+  "homepage": "https://github.com/koalazak/rest980#readme"
+}
