@@ -1,6 +1,6 @@
 {
   "name": "php-nginx_2 Docker Image",
-  "version": "20240507",
+  "version": "8.2",
   "slug": "php-nginx_2",
   "description": "Installation of Webhippie php-nginx Docker Image in Hass.io",
   "arch": [
