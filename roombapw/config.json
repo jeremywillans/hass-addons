@@ -1,6 +1,6 @@
 {
   "name": "roombapw Docker Image",
-  "version": "1.0.0",
+  "version": "20240507",
   "slug": "roombapw",
   "description": "Build and run roombapw Docker Image in Hass.io",
   "arch": [
