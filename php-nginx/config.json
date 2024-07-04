@@ -6,7 +6,7 @@
   "arch": [
     "amd64",
     "armv7",
-    "arm64"
+    "aarch64"
   ],
   "url": "https://github.com/jeremywillans/hass-addons/php-nginx",
   "startup": "application",
