@@ -1,5 +1,5 @@
 {
-  "name": "php-nginx Docker Image",
+  "name": "php-nginx Docker Image aarch64 enabled",
   "version": "8.2",
   "slug": "php-nginx",
   "description": "Installation of Webhippie php-nginx Docker Image in Hass.io",
