@@ -5,7 +5,8 @@
   "description": "Build and run rest980 Docker Image in Hass.io",
   "arch": [
     "amd64",
-    "armv7"
+    "armv7",
+    "aarch64"
   ],
   "url": "https://github.com/jeremywillans/hass-addons/rest980_2",
   "startup": "application",
